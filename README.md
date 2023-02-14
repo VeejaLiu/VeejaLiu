@@ -3,7 +3,7 @@ I am a fool.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
@@ -87,5 +87,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2023 17:54:35 UTC
+ Last Updated on 14/02/2023 18:01:34 UTC
 <!--END_SECTION:waka-->
