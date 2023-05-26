@@ -1,7 +1,7 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -9,7 +9,7 @@ I am a fool.
 
 > 📦 116.2 kB Used in GitHub's Storage 
  > 
-> 🏆 218 Contributions in the Year 2023
+> 🏆 219 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,11 +70,11 @@ Mac                      23 hrs 55 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+GDScript                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -84,5 +84,5 @@ GDScript                 1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2023 03:15:53 UTC
+ Last Updated on 26/05/2023 04:17:48 UTC
 <!--END_SECTION:waka-->
