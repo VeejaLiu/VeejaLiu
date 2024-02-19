@@ -1,7 +1,7 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C195%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,16 +44,26 @@ Sunday                   160 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     45 mins             ████████░░░░░░░░░░░░░░░░░   30.91 % 
+TypeScript               39 mins             ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+SQL                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+XML                      22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             1 hr 9 mins         ████████████░░░░░░░░░░░░░   47.33 % 
+WebStorm                 39 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+DataGrip                 37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+wenshenai-webapp-backend 1 hr 1 min          ███████████░░░░░░░░░░░░░░   42.18 % 
+wenshenai-databases      37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+HiretualEmailServer      34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+RuoYi-Cloud              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+xiaowen-webapp           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +83,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2024 16:12:55 UTC
+ Last Updated on 19/02/2024 17:09:24 UTC
 <!--END_SECTION:waka-->
