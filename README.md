@@ -1,7 +1,7 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C253%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C257%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -44,16 +44,24 @@ Sunday                   160 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 14 mins       ████████████████████████░   95.39 % 
+SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 hrs 19 mins       ████████████████████████░   97.20 % 
+DataGrip                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+HiretualEmailServer      4 hrs 18 mins       ████████████████████████░   96.95 % 
+wenshenai-databases      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+xiaowen-webapp           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TM-Hiretual-Backend      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,5 +81,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2024 16:12:17 UTC
+ Last Updated on 18/03/2024 17:09:54 UTC
 <!--END_SECTION:waka-->
