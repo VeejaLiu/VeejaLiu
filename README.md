@@ -1,7 +1,7 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C609%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,11 +70,11 @@ Windows                  53 mins             █░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ██████████░░░░░░░░░░░░░░░   38.30 % 
+TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   40.43 % 
 Python                   12 repos            ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -84,5 +84,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2024 10:10:26 UTC
+ Last Updated on 05/08/2024 11:09:59 UTC
 <!--END_SECTION:waka-->
