@@ -1,15 +1,13 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C664%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C665%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 145.1 kB Used in GitHub's Storage 
- > 
-> 🏆 359 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,11 +70,11 @@ Windows                  7 hrs 26 mins       █████░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   40.43 % 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
+Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
@@ -86,5 +84,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2024 07:10:33 UTC
+ Last Updated on 15/08/2024 08:15:39 UTC
 <!--END_SECTION:waka-->
