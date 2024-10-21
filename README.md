@@ -9,8 +9,6 @@ I am a fool.
 
 > 📦 156.2 kB Used in GitHub's Storage 
  > 
-> 🏆 665 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -85,5 +83,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 20:15:25 UTC
+ Last Updated on 21/10/2024 21:13:05 UTC
 <!--END_SECTION:waka-->
