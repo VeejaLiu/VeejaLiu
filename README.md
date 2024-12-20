@@ -1,13 +1,15 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C307%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C308%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 426.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 945 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,5 +86,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 10:14:54 UTC
+ Last Updated on 20/12/2024 11:11:43 UTC
 <!--END_SECTION:waka-->
