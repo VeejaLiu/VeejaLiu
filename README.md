@@ -44,22 +44,16 @@ Sunday                   285 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       ██████████████░░░░░░░░░░░   55.00 % 
-Markdown                 1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   32.80 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 35 mins       █████████████████████████   98.70 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-diet-app                 4 hrs 27 mins       ████████████████████████░   96.04 % 
-JijinGuanliGongju        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,5 +73,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 16:44:53 UTC
+ Last Updated on 11/07/2026 17:47:30 UTC
 <!--END_SECTION:waka-->
