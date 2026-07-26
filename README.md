@@ -1,7 +1,7 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C503%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C511%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -44,25 +44,25 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   36.74 % 
-Markdown                 11 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-JSON                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Other                    1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-CSS                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript               12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Markdown                 11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JSON                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other                    2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 14 mins      █████████████████████████   99.83 % 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  39 hrs 14 mins      █████████████████████████   99.82 % 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-diet-app                 16 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   39.56 % 
-Youzack                  11 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-直肠癌疾病诊断及总结               9 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-JijinGuanliGongju        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-TerrariaGuide            1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+diet-app                 13 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
+Youzack                  10 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+TerrariaGuide            6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+直肠癌疾病诊断及总结               3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 💻 Operating System: 
-Mac                      41 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +82,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 16:57:18 UTC
+ Last Updated on 26/07/2026 17:57:38 UTC
 <!--END_SECTION:waka-->
