@@ -9,7 +9,7 @@ I am a fool.
 
 **🐱 My GitHub Data** 
 
-> 📦 448.0 kB Used in GitHub's Storage 
+> 📦 448.1 kB Used in GitHub's Storage 
  > 
 > 🏆 203 Contributions in the Year 2026
  > 
@@ -46,47 +46,46 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.46 % 
-Markdown                 11 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JSON                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Other                    2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Markdown                 9 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
+TypeScript               9 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JSON                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 14 mins      █████████████████████████   99.82 % 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+VS Code                  32 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 13 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Youzack                  10 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-TerrariaGuide            6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-直肠癌疾病诊断及总结               3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+diet-app                 10 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
+Youzack                  6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+直肠癌疾病诊断及总结               3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Mac                      39 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 hrs 47 mins (96.16%)
+⏱ AI Coding Time: 32 hrs 1 min (98.99%)
 
-✍️ 20,329 lines written by AI, 92 lines written by hand (99.55% AI-written)
+✍️ 17,156 lines written by AI, 77 lines written by hand (99.55% AI-written)
 
-🔤 561,391,443 Input Tokens, 2,251,350 Output Tokens
+🔤 456,839,998 Input Tokens, 1,928,363 Output Tokens
 
-💵 $2871.95 Estimated AI Cost This Week
+💵 $2341.08 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 630 AI Prompts
+🧠 41 AI Sessions, 529 AI Prompts
 
-GPT                      21,636 lines        █████████████████████████   100.00 % 
+GPT                      17,937 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.55% of written lines came from AI
-📄 Detailed Prompter — average 741 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.73% of changed lines were hand-edited
+📄 Detailed Prompter — average 673 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,5 +105,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 16:09:47 UTC
+ Last Updated on 27/07/2026 18:19:31 UTC
 <!--END_SECTION:waka-->
