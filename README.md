@@ -1,7 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C511%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -65,6 +67,28 @@ VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░�
 Mac                      39 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 37 hrs 47 mins (96.16%)
+
+✍️ 20,329 lines written by AI, 92 lines written by hand (99.55% AI-written)
+
+🔤 561,391,443 Input Tokens, 2,251,350 Output Tokens
+
+💵 $2871.95 Estimated AI Cost This Week
+
+🧠 51 AI Sessions, 630 AI Prompts
+
+GPT                      21,636 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.55% of written lines came from AI
+📄 Detailed Prompter — average 741 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +106,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 13:34:12 UTC
+ Last Updated on 27/07/2026 16:09:47 UTC
 <!--END_SECTION:waka-->
