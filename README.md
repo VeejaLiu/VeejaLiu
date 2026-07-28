@@ -1,9 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C775%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C778%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-200%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,46 +46,46 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.04 % 
-TypeScript               9 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-JSON                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Other                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Markdown                 9 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+TypeScript               8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+JSON                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  30 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 10 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   33.96 % 
-Youzack                  6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-直肠癌疾病诊断及总结               3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+diet-app                 14 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.36 % 
+TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+直肠癌疾病诊断及总结               3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JijinGuanliGongju        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-Mac                      32 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 1 min (98.99%)
+⏱ AI Coding Time: 30 hrs 33 mins (98.97%)
 
-✍️ 17,156 lines written by AI, 77 lines written by hand (99.55% AI-written)
+✍️ 16,499 lines written by AI, 76 lines written by hand (99.54% AI-written)
 
-🔤 456,839,998 Input Tokens, 1,928,363 Output Tokens
+🔤 508,890,504 Input Tokens, 2,141,369 Output Tokens
 
-💵 $2341.08 Estimated AI Cost This Week
+💵 $2615.39 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 529 AI Prompts
+🧠 43 AI Sessions, 496 AI Prompts
 
-GPT                      17,937 lines        █████████████████████████   100.00 % 
+GPT                      17,066 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📄 Detailed Prompter — average 673 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 0.79% of changed lines were hand-edited
+🤖 AI-Driven — 99.54% of written lines came from AI
+📄 Detailed Prompter — average 666 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +105,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 17:28:24 UTC
+ Last Updated on 28/07/2026 19:11:30 UTC
 <!--END_SECTION:waka-->
