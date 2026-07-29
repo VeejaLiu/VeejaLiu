@@ -1,9 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C778%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C782%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-200%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,46 +46,46 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-TypeScript               8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-JSON                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Other                    2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+TypeScript               10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.86 % 
+Markdown                 7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 14 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.36 % 
-TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-直肠癌疾病诊断及总结               3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-JijinGuanliGongju        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+diet-app                 14 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.50 % 
+TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+直肠癌疾病诊断及总结               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+JijinGuanliGongju        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 
 💻 Operating System: 
-Mac                      30 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 33 mins (98.97%)
+⏱ AI Coding Time: 29 hrs 18 mins (99.08%)
 
-✍️ 16,499 lines written by AI, 76 lines written by hand (99.54% AI-written)
+✍️ 16,559 lines written by AI, 72 lines written by hand (99.57% AI-written)
 
-🔤 508,890,504 Input Tokens, 2,141,369 Output Tokens
+🔤 512,698,889 Input Tokens, 2,184,248 Output Tokens
 
-💵 $2615.39 Estimated AI Cost This Week
+💵 $2635.72 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 496 AI Prompts
+🧠 41 AI Sessions, 492 AI Prompts
 
-GPT                      17,066 lines        █████████████████████████   100.00 % 
+GPT                      17,405 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📄 Detailed Prompter — average 666 characters per prompt
+🤖 AI-Driven — 99.57% of written lines came from AI
+📄 Detailed Prompter — average 594 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.83% of changed lines were hand-edited
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +105,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 17:06:20 UTC
+ Last Updated on 29/07/2026 19:00:46 UTC
 <!--END_SECTION:waka-->
