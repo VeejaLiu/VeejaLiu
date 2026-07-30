@@ -1,15 +1,15 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C782%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C785%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-204%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-209%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 450.0 kB Used in GitHub's Storage 
+> 📦 450.1 kB Used in GitHub's Storage 
  > 
 > 🏆 215 Contributions in the Year 2026
  > 
@@ -46,45 +46,45 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.86 % 
-Markdown                 7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+TypeScript               9 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Markdown                 7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+C#                       4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Other                    3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 14 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.50 % 
-TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-直肠癌疾病诊断及总结               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-JijinGuanliGongju        1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+diet-app                 14 hrs 28 mins      ████████████░░░░░░░░░░░░░   49.85 % 
+TerrariaGuide            6 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+直肠癌疾病诊断及总结               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+VeejasGardenSentinel     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+wo                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 💻 Operating System: 
-Mac                      29 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 18 mins (99.08%)
+⏱ AI Coding Time: 28 hrs 49 mins (99.22%)
 
-✍️ 16,559 lines written by AI, 72 lines written by hand (99.57% AI-written)
+✍️ 17,273 lines written by AI, 74 lines written by hand (99.57% AI-written)
 
-🔤 512,698,889 Input Tokens, 2,184,248 Output Tokens
+🔤 507,578,166 Input Tokens, 2,050,357 Output Tokens
 
-💵 $2635.72 Estimated AI Cost This Week
+💵 $2554.48 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 492 AI Prompts
+🧠 59 AI Sessions, 521 AI Prompts
 
-GPT                      17,405 lines        █████████████████████████   100.00 % 
+GPT                      18,103 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.57% of written lines came from AI
-📄 Detailed Prompter — average 594 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📄 Detailed Prompter — average 797 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.41% of changed lines were hand-edited
 ```
 
@@ -105,5 +105,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 17:17:40 UTC
+ Last Updated on 30/07/2026 19:12:44 UTC
 <!--END_SECTION:waka-->
