@@ -46,45 +46,45 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.71 % 
-C#                       4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Other                    3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-JSON                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+TypeScript               9 hrs 55 mins       ██████████████░░░░░░░░░░░   54.07 % 
+Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Markdown                 1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 14 hrs 29 mins      █████████████░░░░░░░░░░░░   53.35 % 
-TerrariaGuide            5 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-VeejasGardenSentinel     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-健身计划                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-VeejaRobotAssistant      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+diet-app                 14 hrs 10 mins      ███████████████████░░░░░░   77.23 % 
+健身计划                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+wo                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+直肠癌疾病诊断及总结               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+TerrariaGuide            41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Mac                      27 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 1 min (99.44%)
+⏱ AI Coding Time: 18 hrs 11 mins (99.17%)
 
-✍️ 16,535 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 11,586 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
-🔤 436,193,619 Input Tokens, 1,663,428 Output Tokens
+🔤 325,593,024 Input Tokens, 1,267,830 Output Tokens
 
-💵 $2178.09 Estimated AI Cost This Week
+💵 $1614.08 Estimated AI Cost This Week
 
-🧠 57 AI Sessions, 444 AI Prompts
+🧠 50 AI Sessions, 276 AI Prompts
 
-GPT                      17,458 lines        █████████████████████████   100.00 % 
+GPT                      12,345 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 705 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 1,022 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
@@ -105,5 +105,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 16:50:56 UTC
+ Last Updated on 02/08/2026 17:55:52 UTC
 <!--END_SECTION:waka-->
