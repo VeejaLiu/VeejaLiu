@@ -46,46 +46,46 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ██████████████░░░░░░░░░░░   56.30 % 
-Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Markdown                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               7 hrs 24 mins       ██████████████░░░░░░░░░░░   56.50 % 
+Other                    2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+CSV                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 14 hrs 10 mins      ████████████████████░░░░░   80.42 % 
-健身计划                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-wo                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-直肠癌疾病诊断及总结               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-qin                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+diet-app                 10 hrs 36 mins      ████████████████████░░░░░   80.89 % 
+健身计划                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+wo                       49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+qin                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Thailand Language Learnin5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      17 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 27 mins (99.14%)
+⏱ AI Coding Time: 12 hrs 58 mins (98.92%)
 
-✍️ 11,558 lines written by AI, 3 lines written by hand (99.97% AI-written)
+✍️ 9,128 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
-🔤 322,199,117 Input Tokens, 1,259,256 Output Tokens
+🔤 192,976,839 Input Tokens, 733,906 Output Tokens
 
-💵 $1596.85 Estimated AI Cost This Week
+💵 $935.28 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 267 AI Prompts
+🧠 39 AI Sessions, 209 AI Prompts
 
-GPT                      12,317 lines        █████████████████████████   100.00 % 
+GPT                      9,854 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,056 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,002 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +105,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 17:31:11 UTC
+ Last Updated on 04/08/2026 19:20:43 UTC
 <!--END_SECTION:waka-->
