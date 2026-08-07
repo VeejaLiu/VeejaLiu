@@ -1,9 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C789%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C790%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-213%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -46,46 +46,44 @@ Sunday                   293 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       █████████████░░░░░░░░░░░░   52.52 % 
-Markdown                 1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Other                    1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+TypeScript               3 hrs 39 mins       ███████████████████░░░░░░   76.98 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-diet-app                 6 hrs 41 mins       ████████████████████░░░░░   79.24 % 
-健身计划                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-qin                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-wo                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Thailand Language Learnin5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+diet-app                 4 hrs 31 mins       ████████████████████████░   95.28 % 
+健身计划                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Youzack                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      8 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 26 mins (99.92%)
+⏱ AI Coding Time: 4 hrs 44 mins (100.0%)
 
-✍️ 7,569 lines written by AI, 3 lines written by hand (99.96% AI-written)
+✍️ 3,685 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 128,843,566 Input Tokens, 445,355 Output Tokens
+🔤 77,882,497 Input Tokens, 262,395 Output Tokens
 
-💵 $605.96 Estimated AI Cost This Week
+💵 $483.74 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 135 AI Prompts
+🧠 12 AI Sessions, 48 AI Prompts
 
-GPT                      7,980 lines         █████████████████████████   100.00 % 
+GPT                      4,062 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 1,141 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 386 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,5 +103,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 15:08:22 UTC
+ Last Updated on 07/08/2026 02:12:21 UTC
 <!--END_SECTION:waka-->
