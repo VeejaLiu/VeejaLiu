@@ -1,15 +1,15 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C884%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C891%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-315%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 461.8 kB Used in GitHub's Storage 
+> 📦 462.0 kB Used in GitHub's Storage 
  > 
 > 🏆 594 Contributions in the Year 2026
  > 
@@ -46,48 +46,49 @@ Sunday                   370 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.46 % 
-Markdown                 10 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
-CSS                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Markdown                 13 hrs 43 mins      ████████████░░░░░░░░░░░░░   46.49 % 
+TypeScript               12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.51 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Codex Vscode             24 hrs 25 mins      ███████████████████████░░   91.30 % 
-VS Code                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Codex Vscode             26 hrs 12 mins      ██████████████████████░░░   88.82 % 
+VS Code                  3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 
 🐱‍💻 Projects: 
-diet-app                 16 hrs 35 mins      ████████████████░░░░░░░░░   62.06 % 
-Youzack                  5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Thailand Language Learnin3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-youtube-yt-dlp           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-泰国跨境电商仓库商业计划             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+diet-app                 22 hrs 27 mins      ███████████████████░░░░░░   76.13 % 
+Thailand Language Learnin3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Youzack                  2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+泰国跨境电商仓库商业计划             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+thai-consonants          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Mac                      26 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 43 mins (99.93%)
+⏱ AI Coding Time: 29 hrs 29 mins (99.94%)
 
-✍️ 15,017 lines written by AI, 130 lines written by hand (99.14% AI-written)
+✍️ 14,751 lines written by AI, 56 lines written by hand (99.62% AI-written)
 
-🔤 56,895,200 Input Tokens, 4,510,642 Output Tokens
+🔤 59,848,541 Input Tokens, 4,775,531 Output Tokens
 
-💵 $2359.31 Estimated AI Cost This Week
+💵 $2504.00 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 274 AI Prompts
+🧠 52 AI Sessions, 284 AI Prompts
 
-GPT                      15,519 lines        █████████████████████████   98.36 % 
-Codex-Vscode             259 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+GPT                      14,295 lines        ████████████████████████░   94.38 % 
+Deepseek                 533 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Codex-Vscode             319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.14% of written lines came from AI
-📄 Detailed Prompter — average 1,224 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🤖 AI-Driven — 99.62% of written lines came from AI
+📄 Detailed Prompter — average 1,332 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +108,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 18:04:12 UTC
+ Last Updated on 29/08/2026 21:26:25 UTC
 <!--END_SECTION:waka-->
