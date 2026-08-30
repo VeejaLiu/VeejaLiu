@@ -46,49 +46,49 @@ Sunday                   377 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 43 mins      ████████████░░░░░░░░░░░░░   46.49 % 
-TypeScript               12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.51 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-CSS                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TypeScript               14 hrs 55 mins      ████████████░░░░░░░░░░░░░   46.28 % 
+Markdown                 14 hrs 3 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Codex Vscode             26 hrs 12 mins      ██████████████████████░░░   88.82 % 
-VS Code                  3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Codex Vscode             26 hrs 40 mins      █████████████████████░░░░   82.69 % 
+VS Code                  5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 
 🐱‍💻 Projects: 
-diet-app                 22 hrs 27 mins      ███████████████████░░░░░░   76.13 % 
-Thailand Language Learnin3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Youzack                  2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-泰国跨境电商仓库商业计划             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-thai-consonants          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+diet-app                 26 hrs 30 mins      █████████████████████░░░░   82.16 % 
+Thailand Language Learnin3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Youzack                  1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+泰国跨境电商仓库商业计划             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+thai-consonants          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      29 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 29 mins (99.94%)
+⏱ AI Coding Time: 32 hrs 14 mins (99.95%)
 
-✍️ 14,751 lines written by AI, 56 lines written by hand (99.62% AI-written)
+✍️ 21,404 lines written by AI, 56 lines written by hand (99.74% AI-written)
 
-🔤 59,848,541 Input Tokens, 4,775,531 Output Tokens
+🔤 60,324,093 Input Tokens, 5,238,608 Output Tokens
 
-💵 $2504.00 Estimated AI Cost This Week
+💵 $2984.62 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 284 AI Prompts
+🧠 57 AI Sessions, 299 AI Prompts
 
-GPT                      14,295 lines        ████████████████████████░   94.38 % 
-Deepseek                 533 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Codex-Vscode             319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+GPT                      14,321 lines        ███████████████░░░░░░░░░░   60.91 % 
+Deepseek                 8,870 lines         █████████░░░░░░░░░░░░░░░░   37.73 % 
+Codex-Vscode             319 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📄 Detailed Prompter — average 1,332 characters per prompt
+🤖 AI-Driven — 99.74% of written lines came from AI
+📄 Detailed Prompter — average 1,452 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,5 +108,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 18:18:50 UTC
+ Last Updated on 30/08/2026 21:46:37 UTC
 <!--END_SECTION:waka-->
