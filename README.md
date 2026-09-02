@@ -1,9 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C916%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C932%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-362%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,52 +46,52 @@ Sunday                   377 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 hrs 57 mins      ████████████░░░░░░░░░░░░░   46.89 % 
-TypeScript               24 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
-Bash                     53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-JSON                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               36 hrs 43 mins      ██████████████░░░░░░░░░░░   55.81 % 
+Markdown                 24 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.48 % 
+Bash                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Other                    44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+JSON                     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Codex Vscode             39 hrs 23 mins      ██████████████████░░░░░░░   74.00 % 
-VS Code                  12 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Claude Code              1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Codex Vscode             51 hrs 23 mins      ████████████████████░░░░░   78.12 % 
+VS Code                  12 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Claude Code              1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🐱‍💻 Projects: 
-diet-app                 46 hrs 16 mins      ██████████████████████░░░   86.92 % 
-Thailand Language Learnin3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Youzack                  2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-泰国跨境电商仓库商业计划             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-TencentDB-Agent-Memory   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+diet-app                 57 hrs 42 mins      ██████████████████████░░░   87.72 % 
+Thailand Language Learnin3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Youzack                  3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+泰国跨境电商仓库商业计划             25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+TencentDB-Agent-Memory   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      53 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      65 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 hrs 12 mins (99.94%)
+⏱ AI Coding Time: 65 hrs 38 mins (99.76%)
 
-✍️ 59,199 lines written by AI, 58 lines written by hand (99.9% AI-written)
+✍️ 58,507 lines written by AI, 58 lines written by hand (99.9% AI-written)
 
-🔤 83,494,197 Input Tokens, 9,998,268 Output Tokens
+🔤 60,768,412 Input Tokens, 8,625,239 Output Tokens
 
-💵 $5037.95 Estimated AI Cost This Week
+💵 $2894.47 Estimated AI Cost This Week
 
-🧠 108 AI Sessions, 463 AI Prompts
+🧠 114 AI Sessions, 450 AI Prompts
 
-Deepseek                 35,838 lines        ███████████████░░░░░░░░░░   58.29 % 
-GPT                      23,717 lines        ██████████░░░░░░░░░░░░░░░   38.58 % 
-Opus                     1,269 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Codex-Vscode             654 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Deepseek                 35,957 lines        ███████████████░░░░░░░░░░   59.16 % 
+GPT                      22,904 lines        █████████░░░░░░░░░░░░░░░░   37.69 % 
+Opus                     1,269 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Codex-Vscode             646 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.9% of written lines came from AI
-📄 Detailed Prompter — average 1,362 characters per prompt
+📄 Detailed Prompter — average 1,244 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,5 +111,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 18:17:39 UTC
+ Last Updated on 02/09/2026 21:29:32 UTC
 <!--END_SECTION:waka-->
