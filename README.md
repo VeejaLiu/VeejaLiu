@@ -3,7 +3,7 @@ I am a fool.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C946%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-378%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -11,7 +11,7 @@ I am a fool.
 
 > 📦 500.5 kB Used in GitHub's Storage 
  > 
-> 🏆 715 Contributions in the Year 2026
+> 🏆 716 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -24,15 +24,15 @@ I am a fool.
 ```text
 🌞 Morning                861 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 🌆 Daytime                1622 commits        ████████░░░░░░░░░░░░░░░░░   33.86 % 
-🌃 Evening                1558 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
-🌙 Night                  749 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌃 Evening                1558 commits        ████████░░░░░░░░░░░░░░░░░   32.52 % 
+🌙 Night                  750 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   752 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 Tuesday                  684 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Wednesday                930 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                931 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 Thursday                 946 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
 Friday                   688 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 Saturday                 375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
@@ -46,52 +46,49 @@ Sunday                   415 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               29 hrs 49 mins      ██████████████░░░░░░░░░░░   57.49 % 
-Markdown                 14 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Bash                     1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TypeScript               22 hrs 48 mins      ████████████████░░░░░░░░░   64.91 % 
+Markdown                 4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Bash                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-Codex Vscode             42 hrs 12 mins      ████████████████████░░░░░   81.35 % 
-VS Code                  7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Claude Code              1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Codex Vscode             32 hrs 52 mins      ███████████████████████░░   93.57 % 
+VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🐱‍💻 Projects: 
-diet-app                 41 hrs 17 mins      ████████████████████░░░░░   79.61 % 
-Youzack                  8 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-泰国租房建议                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-TencentDB-Agent-Memory   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-youtube-yt-dlp           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+diet-app                 25 hrs 45 mins      ██████████████████░░░░░░░   73.34 % 
+Youzack                  8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+泰国租房建议                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+youtube-yt-dlp           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      51 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 51 hrs 41 mins (99.64%)
+⏱ AI Coding Time: 34 hrs 57 mins (99.51%)
 
-✍️ 54,525 lines written by AI, 9 lines written by hand (99.98% AI-written)
+✍️ 22,961 lines written by AI, 7 lines written by hand (99.97% AI-written)
 
-🔤 38,673,704 Input Tokens, 6,735,908 Output Tokens
+🔤 18,558,428 Input Tokens, 2,421,028 Output Tokens
 
-💵 $2388.76 Estimated AI Cost This Week
+💵 $414.27 Estimated AI Cost This Week
 
-🧠 95 AI Sessions, 373 AI Prompts
+🧠 50 AI Sessions, 231 AI Prompts
 
-GPT                      31,533 lines        ██████████████░░░░░░░░░░░   55.95 % 
-Deepseek                 22,678 lines        ██████████░░░░░░░░░░░░░░░   40.23 % 
-Opus                     1,269 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Codex-Vscode             884 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      23,387 lines        ████████████████████████░   94.88 % 
+Codex-Vscode             675 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Deepseek                 587 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,050 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📄 Detailed Prompter — average 1,020 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +108,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 16:58:30 UTC
+ Last Updated on 08/09/2026 19:44:01 UTC
 <!--END_SECTION:waka-->
 
 
