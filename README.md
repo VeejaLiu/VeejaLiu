@@ -1,9 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C951%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C955%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-385%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-390%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -46,47 +46,46 @@ Sunday                   416 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Other                    3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-JavaScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+TypeScript               3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Other                    3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Markdown                 2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Git Config               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🔥 Editors: 
-Codex Vscode             12 hrs 24 mins      █████████████████████░░░░   85.62 % 
-VS Code                  2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Codex Vscode             12 hrs 34 mins      ████████████████████░░░░░   81.57 % 
+VS Code                  2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
 
 🐱‍💻 Projects: 
-diet-app                 7 hrs 40 mins       █████████████░░░░░░░░░░░░   52.94 % 
-Youzack                  6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.12 % 
-youtube-yt-dlp           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Youzack                  8 hrs 27 mins       ██████████████░░░░░░░░░░░   54.79 % 
+diet-app                 6 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.82 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Mac                      14 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 14 mins (98.26%)
+⏱ AI Coding Time: 15 hrs 6 mins (97.97%)
 
-✍️ 6,384 lines written by AI, 2 lines written by hand (99.97% AI-written)
+✍️ 2,201 lines written by AI, 2 lines written by hand (99.91% AI-written)
 
-🔤 6,945,242 Input Tokens, 753,557 Output Tokens
+🔤 7,008,257 Input Tokens, 585,346 Output Tokens
 
-💵 $379.07 Estimated AI Cost This Week
+💵 $474.79 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 189 AI Prompts
+🧠 36 AI Sessions, 175 AI Prompts
 
-GPT                      6,622 lines         ██████████████████████░░░   89.81 % 
-Codex-Vscode             645 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Deepseek                 106 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+GPT                      2,485 lines         █████████████████████░░░░   85.60 % 
+Codex-Vscode             418 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 1,178 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📄 Detailed Prompter — average 1,009 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 16:52:06 UTC
+ Last Updated on 13/09/2026 19:09:58 UTC
 <!--END_SECTION:waka-->
 
 
