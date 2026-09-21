@@ -46,45 +46,45 @@ Sunday                   416 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-TypeScript               2 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-Other                    2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Bash                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-JSON                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Markdown                 3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+TypeScript               2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Other                    2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Bash                     2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 51 mins      ████████████████████░░░░░   80.93 % 
-VS Code                  2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Codex Vscode             9 hrs 56 mins       █████████████████████░░░░   82.92 % 
+VS Code                  2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 
 🐱‍💻 Projects: 
-diet-app                 8 hrs 23 mins       ████████████████░░░░░░░░░   62.49 % 
-Youzack                  5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.51 % 
+diet-app                 7 hrs 24 mins       ███████████████░░░░░░░░░░   61.68 % 
+Youzack                  4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
 
 💻 Operating System: 
-Mac                      13 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 11 mins (98.34%)
+⏱ AI Coding Time: 11 hrs 58 mins (99.83%)
 
-✍️ 441 lines written by AI, 10 lines written by hand (97.78% AI-written)
+✍️ 439 lines written by AI, 10 lines written by hand (97.77% AI-written)
 
-🔤 7,856,546 Input Tokens, 511,018 Output Tokens
+🔤 7,362,252 Input Tokens, 452,549 Output Tokens
 
-💵 $668.00 Estimated AI Cost This Week
+💵 $610.87 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 138 AI Prompts
+🧠 23 AI Sessions, 136 AI Prompts
 
-Codex-Vscode             371 lines           █████████████████████░░░░   84.13 % 
-GPT                      70 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Codex-Vscode             369 lines           █████████████████████░░░░   84.05 % 
+GPT                      70 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.78% of written lines came from AI
-📄 Detailed Prompter — average 585 characters per prompt
+🤖 AI-Driven — 97.77% of written lines came from AI
+📄 Detailed Prompter — average 559 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.22% of changed lines were hand-edited
+🚀 High AI Trust — 2.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +104,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 17:31:57 UTC
+ Last Updated on 21/09/2026 21:29:47 UTC
 <!--END_SECTION:waka-->
 
 
