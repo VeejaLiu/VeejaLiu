@@ -9,7 +9,7 @@ I am a fool.
 
 **🐱 My GitHub Data** 
 
-> 📦 507.6 kB Used in GitHub's Storage 
+> 📦 507.7 kB Used in GitHub's Storage 
  > 
 > 🏆 823 Contributions in the Year 2026
  > 
@@ -46,46 +46,46 @@ Sunday                   434 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.26 % 
-JavaScript               2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-SRecode Template         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               8 hrs 56 mins       ████████████░░░░░░░░░░░░░   47.20 % 
+JavaScript               2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+SRecode Template         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 28 mins      █████████████████████░░░░   85.06 % 
-VS Code                  2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Codex Vscode             15 hrs 46 mins      █████████████████████░░░░   83.27 % 
+VS Code                  3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 
 🐱‍💻 Projects: 
-Youzack                  14 hrs 58 mins      █████████████████████░░░░   82.35 % 
-diet-app                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-youtube-yt-dlp           1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-new-chat                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Youzack                  15 hrs 34 mins      █████████████████████░░░░   82.30 % 
+diet-app                 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+youtube-yt-dlp           1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+new-chat                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Mac                      18 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 9 mins (99.8%)
+⏱ AI Coding Time: 18 hrs 53 mins (99.81%)
 
-✍️ 8,326 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 8,903 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 14,182,270 Input Tokens, 1,516,294 Output Tokens
+🔤 14,998,818 Input Tokens, 1,578,595 Output Tokens
 
-💵 $1129.29 Estimated AI Cost This Week
+💵 $1280.27 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 212 AI Prompts
+🧠 47 AI Sessions, 217 AI Prompts
 
-GPT                      8,547 lines         ████████████████████████░   95.75 % 
-Codex-Vscode             379 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+GPT                      9,118 lines         ████████████████████████░   95.95 % 
+Codex-Vscode             385 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,157 characters per prompt
+📄 Detailed Prompter — average 1,291 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -107,7 +107,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 18:48:52 UTC
+ Last Updated on 27/09/2026 21:45:55 UTC
 <!--END_SECTION:waka-->
 
 
