@@ -46,46 +46,45 @@ Sunday                   434 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.57 % 
-Markdown                 3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-JSON                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+TypeScript               5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+Markdown                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Other                    2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+JSON                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+JavaScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 1 min        ███████████████████░░░░░░   74.76 % 
-VS Code                  4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Codex Vscode             11 hrs 22 mins      ██████████████████░░░░░░░   72.61 % 
+VS Code                  4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
 
 🐱‍💻 Projects: 
-Youzack                  12 hrs 35 mins      █████████████████░░░░░░░░   67.09 % 
-diet-app                 5 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-泰国跨境电商仓库商业计划             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-new-chat                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-tai                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Youzack                  9 hrs 37 mins       ███████████████░░░░░░░░░░   61.45 % 
+diet-app                 5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+泰国跨境电商仓库商业计划             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+tai                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      18 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 15 hrs 39 mins (100.0%)
 
-✍️ 5,940 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,634 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 106,554,103 Input Tokens, 5,009,155 Output Tokens
+🔤 104,874,936 Input Tokens, 4,641,992 Output Tokens
 
-💵 $15332.59 Estimated AI Cost This Week
+💵 $15158.52 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 49 AI Prompts
+🧠 18 AI Sessions, 44 AI Prompts
 
-GPT                      6,127 lines         █████████████████████████   98.02 % 
-Codex-Vscode             124 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+GPT                      1,618 lines         ███████████████████████░░   93.20 % 
+Codex-Vscode             118 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,797 characters per prompt
+📄 Detailed Prompter — average 1,212 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -107,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 17:19:30 UTC
+ Last Updated on 04/10/2026 20:42:32 UTC
 <!--END_SECTION:waka-->
 
 
