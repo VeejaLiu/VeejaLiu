@@ -1,9 +1,9 @@
 I am a fool.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C993%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C994%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-435%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-435%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -46,45 +46,45 @@ Sunday                   434 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
-JSON                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+TypeScript               5 hrs 24 mins       ████████████░░░░░░░░░░░░░   46.51 % 
+JSON                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-Codex Vscode             8 hrs 16 mins       █████████████████░░░░░░░░   68.46 % 
-VS Code                  3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Codex Vscode             7 hrs 48 mins       █████████████████░░░░░░░░   67.19 % 
+VS Code                  3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.81 % 
 
 🐱‍💻 Projects: 
-Youzack                  6 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.96 % 
-diet-app                 5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.62 % 
-泰国跨境电商仓库商业计划             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-tai                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+diet-app                 5 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.00 % 
+Youzack                  5 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.29 % 
+泰国跨境电商仓库商业计划             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+tai                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Mac                      12 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 37 mins (100.0%)
 
-✍️ 1,535 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,001 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 101,295,487 Input Tokens, 3,844,339 Output Tokens
+🔤 101,506,629 Input Tokens, 3,874,520 Output Tokens
 
-💵 $13461.79 Estimated AI Cost This Week
+💵 $13455.89 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 40 AI Prompts
+🧠 17 AI Sessions, 43 AI Prompts
 
-GPT                      1,523 lines         ███████████████████████░░   93.04 % 
-Codex-Vscode             114 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+GPT                      1,998 lines         ████████████████████████░   94.60 % 
+Codex-Vscode             114 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,475 characters per prompt
+📚 Verbose Prompter — average 2,037 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -106,7 +106,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/VeejaLiu/VeejaLiu/master/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 14:07:35 UTC
+ Last Updated on 07/10/2026 20:22:35 UTC
 <!--END_SECTION:waka-->
 
 
